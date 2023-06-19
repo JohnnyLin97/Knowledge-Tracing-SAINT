@@ -4,6 +4,6 @@ EMBED_DIMS = 128
 ENC_HEADS = DEC_HEADS = 8
 NUM_ENCODER = NUM_DECODER = 6
 BATCH_SIZE = 32
-TRAIN_FILE = "/content/data/train.csv"
+TRAIN_FOLDER = "C:/Users/jybrl/Desktop/QSticker_data/record_0201"
 TOTAL_EXE = 13523
 TOTAL_CAT = 13523
